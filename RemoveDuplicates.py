@@ -3,6 +3,7 @@ class Solution:
         """
         :type nums: List[int]
         :rtype: int
+	добавляем описание
         """
         if nums:
             len_ = 1;
